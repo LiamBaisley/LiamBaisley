@@ -20,7 +20,7 @@
   <br>
   <br>
   
-  - ☁️ Chasing cloud: I am always learning more about cloud technologies.
+  - ☁️ Cloud Certified - Azure
   - 🔐 Security conscious: Focused on security and maintaining secure code.
   - 🤓 I spend most of my time behind a screen, and my free time as far away from one as I can get! 🏕️
   - 🔍 Where to find me: [![Linkedin Badge](https://img.shields.io/badge/-Liam-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/liam-baisley-500846164)
